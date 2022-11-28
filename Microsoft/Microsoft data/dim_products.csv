@@ -1,0 +1,7 @@
+product_id,product_category,product_name,price
+1,Analytics,Azure Databricks,1000
+2,Analytics,Azure Stream Analytics,3000
+3,Containers,Azure Kubernetes Service,1700
+4,Containers,Azure Service Fabric,2500
+5,Compute,Virtual Machines,1500
+6,Compute,Azure Functions,2000
