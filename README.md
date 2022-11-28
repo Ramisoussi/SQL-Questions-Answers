@@ -2,7 +2,7 @@ Generating fake datasets inspired by business operations from top tech companies
 
 This features the use of MySQL server for query creation and Python for fake data generation using Faker package. [a link] (https://faker.readthedocs.io/en/master/) 
 
-[Click me to go to Google!](https://faker.readthedocs.io/en/master/)
+[Faker](https://faker.readthedocs.io/en/master/)
 
 We aim to draw 
 
