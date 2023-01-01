@@ -1,5 +1,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ramisoussi/SQL-Questions-Answers?logo=Github)
 
+# Overview
 Generating fake datasets inspired by business operations in top tech companies and creating SQL questions & Answers for data analysis.
 
 This features the use of MySQL server for query creation and Python for fake data generation using 
