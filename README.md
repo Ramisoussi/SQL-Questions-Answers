@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/Ramisoussi/SQL-Questions-Answers?logo=Github)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ramisoussi/SQL-Questions-Answers?)
 
 # Overview
 Generating fake datasets inspired by business operations in top tech companies and creating SQL questions & Answers for data analysis.
