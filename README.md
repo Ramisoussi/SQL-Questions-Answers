@@ -13,7 +13,7 @@ The Top Tech companies are:
 - [Youtube](/Youtube/) <img src="https://img.icons8.com/3d-fluency/15/null/youtube-play.png"/>
 - [Tesla](/Tesla/) <img src="https://img.icons8.com/windows/15/null/tesla-logo.png"/>
 - [Coinbase](/Coinbase/) <img src="https://img.icons8.com/fluency/15/null/stack-of-coins.png"/>
-- [Paypal](/Paypal/) <img src="https://img.icons8.com/color/15/null/paypal.png"/>
+- [Paypal](/PayPal/) <img src="https://img.icons8.com/color/15/null/paypal.png"/>
 - [Hinge](/Hinge/) <img src="https://img.icons8.com/ios/15/null/hinge.png"/>
 - [Microsoft](/Microsoft/) <img src="https://img.icons8.com/color/15/null/windows-logo.png"/>
 - [Reddit](/Reddit/) <img src="https://img.icons8.com/color/15/null/reddit.png"/>
